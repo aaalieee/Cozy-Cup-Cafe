@@ -39,5 +39,5 @@ Cozy Cup Cafe is a beautiful cafe where visitors may browse and purchase their f
 **Email:** abianathalie30@gmail.com
 
 [<img src="Facebook.png" alt="Facebook" width="30">](https://web.facebook.com/n.30thalie) 
-[<img src="GitHub.png" alt="GitHub" width="30">](https://github.com/aaalieee)
+[<img src="Github.png" alt="GitHub" width="30">](https://github.com/aaalieee)
 
